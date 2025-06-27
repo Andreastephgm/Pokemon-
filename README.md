@@ -14,7 +14,7 @@ If you want to challenge yourself by designing the layout of the app, here is th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/who-is-that-pokemon.git
+   git clone: https://github.com/Andreastephgm/Pokemon-.git
    ```
 2. Open the .xcodeproj file in Xcode.
 3. Build and run the project in the iOS Simulator.
